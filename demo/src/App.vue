@@ -9,10 +9,7 @@ import { AppLayout } from "@/layouts";
 import { HomeView } from "@/views";
 </script>
 
-<style>
-* {
-  padding: 0;
-  margin: 0;
-  font-family: sans-serif;
-}
+<style lang="scss">
+@import "@/assets/scss/app.scss";
 </style>
+
